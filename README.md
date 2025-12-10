@@ -28,3 +28,5 @@ Enfin, streamlit doit l'etre aussi afin de pouvoir analyser les graphique de nos
 # Comment lancer l'application streamlit: 
 - streamlit run streamlit.py 
 
+# .ignore 
+- ignorer le fichier .devcontainer, il est affillié à Docker. Utilisé sur MacOs 
