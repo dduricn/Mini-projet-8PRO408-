@@ -37,7 +37,7 @@ https://chatbotnetflix.streamlit.app
 
 # Pour utiliser notre application Streamlit localement:
 - Streamlit doit être installé au préalable.
-- La lancer avec la commande suivante: streamlit run streamlit.py
+- La lancer avec la commande suivante: streamlit run app.py
 
 # .ignore 
 - ignorer le fichier .devcontainer, car il est affillié à Docker (MacOS).
