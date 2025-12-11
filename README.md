@@ -33,3 +33,6 @@ Enfin, streamlit doit aussi être installé  afin de pouvoir visualiser les grap
 
 # .ignore 
 - ignorer le fichier .devcontainer, car il est affillié à Docker (MacOS).
+
+# lien vers l'application Streamlit: 
+https://chatbotnetflix.streamlit.app 
