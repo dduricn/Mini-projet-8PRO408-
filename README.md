@@ -9,6 +9,7 @@ Le projet suivant a été realisé par des étudiants de l'Université du Québe
 - Streamlit
 
 Les paquetages suivants doivent être installés au préalable afin d'assuer le bon fonctionnement du code:
+
 (les suivant inclus dans Anaconda)
 - pandas
 - matplotlib.pyplot
