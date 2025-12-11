@@ -9,11 +9,10 @@ Le projet suivant a été realisé par des étudiants de l'Université du Québe
 - Streamlit
 
 Les paquetages suivants doivent être installés au préalable afin d'assuer le bon fonctionnement du code:
-(ceux précédés d'un astérisque ne sont pas inclus dans Anaconda)
 - pandas
-* ydata-profiling
-* ydata-sdk
-* ipywidgets
+- ydata-profiling   # (non inclus dans Anaconda)
+- ydata-sdk  # (non inclus dans Anaconda)
+- ipywidgets  # (non inclus dans Anaconda)
 - matplotlib.pyplot
 - calendar
 - plotly.express
