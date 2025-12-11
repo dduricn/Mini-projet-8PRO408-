@@ -28,11 +28,11 @@ La commande %matplotlib inline doit être insére au début du code afin de gara
 
 Enfin, streamlit doit aussi être installé  afin de pouvoir visualiser les graphiques de nos analyses en ligne. 
 
-# Comment lancer l'application streamlit: 
-- streamlit run streamlit.py 
+# Comment lancer notre application Streamlit: 
+- streamlit run streamlit.py
+
+# Lien vers notre application Streamlit: 
+https://chatbotnetflix.streamlit.app 
 
 # .ignore 
 - ignorer le fichier .devcontainer, car il est affillié à Docker (MacOS).
-
-# lien vers l'application Streamlit: 
-https://chatbotnetflix.streamlit.app 
