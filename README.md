@@ -17,6 +17,7 @@ Les paquetages suivants doivent être installés au préalable afin d'assuer le 
 - plotly.graph_objects
 - numpy
 - seaborn
+  
 (les suivants NON inclus dans Anaconda)
 - ydata-profiling
 - ydata-sdk
