@@ -24,15 +24,20 @@ Les paquetages suivants doivent être installés au préalable afin d'assuer le 
 - ydata-sdk
 - ipywidgets
 
-La commande %matplotlib inline doit être insére au début du code afin de garantir le fonctionnement de la bibliothe seaborn et de ses raccourcis barplot. 
+La commande %matplotlib inline doit être insére au début du code afin de garantir le fonctionnement de la bibliothe seaborn et de ses raccourcis barplot.
 
-Enfin, streamlit doit aussi être installé  afin de pouvoir visualiser les graphiques de nos analyses en ligne. 
+# Lancer notre projet depuis Jupyter Notebook:
+- utiliser le projet miniprojet.ipynb
 
-# Comment lancer notre application Streamlit: 
-- streamlit run streamlit.py
+# Lancer notre projet depuis Python:
+- utiliser le fichier miniprojet.py
 
-# Lien vers notre application Streamlit: 
+# Utiliser notre application Streamlit directement en ligne: 
 https://chatbotnetflix.streamlit.app 
+
+# Utiliser notre application Streamlit localement:
+- Streamlit doit être installé au préalable.
+- La lancer avec la commande suivante: streamlit run streamlit.py
 
 # .ignore 
 - ignorer le fichier .devcontainer, car il est affillié à Docker (MacOS).
