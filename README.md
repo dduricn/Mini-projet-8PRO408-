@@ -26,16 +26,16 @@ Les paquetages suivants doivent être installés au préalable afin d'assuer le 
 
 La commande %matplotlib inline doit être insére au début du code afin de garantir le fonctionnement de la bibliothe seaborn et de ses raccourcis barplot.
 
-# Lancer notre projet depuis Jupyter Notebook:
-- utiliser le projet miniprojet.ipynb
+# Pour lancer notre projet depuis Jupyter Notebook:
+- Téléchgarger le fichier miniprojet.ipynb, l'ouvrir et l'exécuter.
 
-# Lancer notre projet depuis Python:
-- utiliser le fichier miniprojet.py
+# Pour lancer notre projet depuis Python:
+- Télécharger le fichier miniprojet.py, et l'exécuter avec la commande suivante: py miniprojet.py
 
-# Utiliser notre application Streamlit directement en ligne: 
+# Pour utiliser notre application Streamlit directement en ligne: 
 https://chatbotnetflix.streamlit.app 
 
-# Utiliser notre application Streamlit localement:
+# Pour utiliser notre application Streamlit localement:
 - Streamlit doit être installé au préalable.
 - La lancer avec la commande suivante: streamlit run streamlit.py
 
