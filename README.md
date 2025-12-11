@@ -30,7 +30,7 @@ La commande %matplotlib inline doit être insére au début du code afin de gara
 - Téléchgarger le fichier miniprojet.ipynb, l'ouvrir et l'exécuter.
 
 # Pour lancer notre projet depuis Python:
-- Télécharger le fichier miniprojet.py, et l'exécuter avec la commande suivante: py miniprojet.py
+- Télécharger le fichier miniprojet.py, et l'exécuter avec la commande suivante: python3 miniprojet.py
 
 # Pour utiliser notre application Streamlit directement en ligne: 
 https://chatbotnetflix.streamlit.app 
